@@ -1,0 +1,5 @@
+name: dirty Mike
+message: fuck python
+complaint: classes are half ass
+complaint: poor data safety
+complaint: it's not even fast

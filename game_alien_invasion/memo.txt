@@ -1,0 +1,24 @@
+"""
+not good unless you run from computer
+try pasting main file 'alien_invasion.py' here 
+the pygame library is massive and you can check to see when new things come out
+"""
+
+This is supposed to let the player control a rocketship on the bottom of the screen and shoot aliens
+The player can move right and left with the arrow keys
+Aliens that make it to bottom or shoot the ship cause a life (ship) to be lost
+The player only gets 3 lives, game ends once 3 deaths occur
+If the player shoots all the aliens, more aliens that move faster than the last group come
+
+you'll want the pip module
+MacBook-Pro-2:~ davidnakasone$ python3 -m pip install --user pygame
+or
+MacBook-Pro-2:alien_invasion davidnakasone$ python3 -m pip install -U pygame==2.0.0.dev6 --user
+it tells python to run the pip module and install pygame package to the current user's python installation
+
+see computer for working files
+
+.bmp is best, bitmaps are loaded by pygame (default)
+use a transparent or solid background that can be easily replaced
+
+
